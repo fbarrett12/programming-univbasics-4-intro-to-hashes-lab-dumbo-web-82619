@@ -33,7 +33,7 @@ def update_counting_hash(hash, key)
   if hash[key]
    return hash[key] += 1
     else
-    hash[key] = "hello" => 1
+    hash[key] = "hello"
 end
 
 end
